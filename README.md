@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirtemiz
 - 👀 I’m interested in C++ / OOP & Javascript (Mevn Stack)
--  I can try different things sometimes because I like to explore so I have some beginner mobile applicaton projects.(with Java & Flutter)
+-  I like try different things because I like to explore so I have some beginner mobile application projects.(with Java & Flutter)
 - 🌱 I’m currently learning Vue.js and Some javascript frameworks.
 - 📫 How to reach me : temizemir@outlook.com
 
