@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @emirtemiz
-- 👀 I’m interested in everything xd
--  I like try different things because I like to explore so I have some beginner mobile application projects.(with Java & Flutter)
-- 🌱 I’m currently learning React.js and some other javascript frameworks.
+- 👀 I'm into anything that interests me.
 - 📫 How to reach me : temizemir@outlook.com
 
 <!---
